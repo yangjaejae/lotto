@@ -60,7 +60,8 @@ let get_my_result = (req) => {
                 result_code: 200, 
                 data: {
                     total_amt: total_amt_str,
-                    each_result: each_result
+                    each_result: each_result,
+                    first: "1st"
                     // [
                     //     {row: "A", result: "당첨", num: "1 3 7 29 41"}
                     // ]
