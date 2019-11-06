@@ -68,6 +68,7 @@ let get_my_result = (req) => {
                     fifth: "5st",
                     sixth: "6st",
                     seventh: "7st",
+                    eightth: "8st",
                     // [
                     //     {row: "A", result: "당첨", num: "1 3 7 29 41"}
                     // ]
